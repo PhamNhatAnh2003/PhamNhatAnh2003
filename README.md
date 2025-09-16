@@ -1,9 +1,8 @@
 
 # &nbsp;&nbsp;&nbsp;👋 Hi, I’m Pham Nhat Anh (AnhDZ)
 # 🧑‍💻 About Me
-&nbsp;&nbsp;&nbsp;🌟I graduated from Hanoi University of Science and Technology (HUST)  
-&nbsp;&nbsp;&nbsp;💻 Previously, I was a Trainee at Kaopiz Software  
-&nbsp;&nbsp;&nbsp;🚀 Passionate about Web Development, AI & Data Science  
+&nbsp;&nbsp;&nbsp;🌟 I graduated from **Hanoi University of Science and Technology (HUST)**  
+&nbsp;&nbsp;&nbsp;🚀 I am focusing on **Web Development and Cyber Security**   
 
 ---
   
