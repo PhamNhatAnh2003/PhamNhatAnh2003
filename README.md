@@ -1,17 +1,28 @@
-👋 Hi, I’m Pham Nhat Anh. I graduated from Hanoi University of Science and Technology (HUST)
-💻 Previously, I was a Trainee at Kaopiz Software
-🚀 Passionate about Web Development, AI & Data Science
 
-🌟 Skills
+# &nbsp;&nbsp;&nbsp;👋 Hi, I’m Pham Nhat Anh (AnhDZ)
+# 🧑‍💻 About Me
+&nbsp;&nbsp;&nbsp;🌟I graduated from Hanoi University of Science and Technology (HUST)  
+&nbsp;&nbsp;&nbsp;💻 Previously, I was a Trainee at Kaopiz Software  
+&nbsp;&nbsp;&nbsp;🚀 Passionate about Web Development, AI & Data Science  
 
-Frontend: ReactJS, JavaScript, HTML, CSS,C/C++, Java, Ant Design, TailwindCSS
-Backend: PHP (Laravel), Node.js (Express), RESTful API
-Database: MySQL, MongoDB
-Others: Git/GitHub, Docker, Chart.js, Recharts
-🎯 Interests
+---
+  
+## 🌟 Skills  
+   &nbsp;&nbsp;&nbsp;- Frontend: ReactJS, JavaScript, HTML, CSS,C/C++, Java, Ant Design, TailwindCSS  
+   &nbsp;&nbsp;&nbsp;- Backend: PHP (Laravel), Node.js (Express), RESTful API  
+   &nbsp;&nbsp;&nbsp;- Database: MySQL, MongoDB  
+   &nbsp;&nbsp;&nbsp;- Others: Git/GitHub, Docker, Chart.js, Recharts  
 
-🍳 Cooking
-✈️ Traveling
-📚 Reading books
-🎮 Playing games
-📫 Contact with me Facebook: [https://www.facebook.com/anh.pham.987] Email: [anhpham090423@gmail.com]
+---   
+  
+## 🎯 Interests  
+  &nbsp;&nbsp;&nbsp;- Cooking  
+  &nbsp;&nbsp;&nbsp;- Traveling  
+  &nbsp;&nbsp;&nbsp;- Reading books  
+  &nbsp;&nbsp;&nbsp;- Playing games  
+
+---
+  
+## 📫 Contact with me   
+&nbsp;&nbsp;&nbsp;- Facebook: [https://www.facebook.com/anh.pham.987]   
+&nbsp;&nbsp;&nbsp;- Email: [anhpham090423@gmail.com]  
