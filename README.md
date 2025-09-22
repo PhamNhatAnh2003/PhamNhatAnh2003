@@ -13,6 +13,8 @@
    &nbsp;&nbsp;&nbsp;- Database: MySQL, MongoDB  
    &nbsp;&nbsp;&nbsp;- Others: Git/GitHub, Docker, Chart.js, Recharts  
 
+  &nbsp;&nbsp;&nbsp;**I take pride in my ability to balance logical thinking and creativity, allowing me to design intuitive, user-centered interfaces while also developing secure, high-performance backends that scale.**
+
 ---   
   
 ## 🎯 Interests  
