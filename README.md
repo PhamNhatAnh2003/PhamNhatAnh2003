@@ -3,12 +3,13 @@
 # 🧑‍💻 About Me
 &nbsp;&nbsp;&nbsp;🌟 I graduated from **Hanoi University of Science and Technology (HUST)**  
 &nbsp;&nbsp;&nbsp;🚀 I am focusing on **Web Development and Cyber Security**   
+&nbsp;&nbsp;&nbsp;💡 I enjoy building scalable, high-performance web applications and continuously exploring new technologies to improve my skills   
 
 ---
   
 ## 🌟 Skills  
    &nbsp;&nbsp;&nbsp;- Frontend: ReactJS, JavaScript, HTML, CSS,C/C++, Java, Ant Design, TailwindCSS  
-   &nbsp;&nbsp;&nbsp;- Backend: PHP (Laravel), Node.js (Express), RESTful API  
+   &nbsp;&nbsp;&nbsp;- Backend: PHP (Laravel), Node.js (Express), RESTful API, Python  
    &nbsp;&nbsp;&nbsp;- Database: MySQL, MongoDB  
    &nbsp;&nbsp;&nbsp;- Others: Git/GitHub, Docker, Chart.js, Recharts  
 
