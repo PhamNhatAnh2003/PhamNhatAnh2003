@@ -28,3 +28,4 @@
 ## 📫 Contact with me   
 &nbsp;&nbsp;&nbsp;- Facebook: [https://www.facebook.com/anh.pham.987]   
 &nbsp;&nbsp;&nbsp;- Email: [anhpham090423@gmail.com]  
+&nbsp;&nbsp;&nbsp;- CV: [https://drive.google.com/drive/folders/1gwo8gSLVOqb-Ebt0NsshA02EKs8Jk5wi?usp=drive_link]  
